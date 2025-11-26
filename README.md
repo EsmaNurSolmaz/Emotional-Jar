@@ -12,9 +12,9 @@ Emotional Reservoir is a web app that lets users capture their joyful moments an
 ## Features
 
 * User registration and authentication
-* Add, edit, and delete emotional entries
-* View past entries in a list format
-* Secure data storage using MongoDB
+* Add emotional entries
+* View past entries randomly
+* Secure data storage
 * Responsive and user-friendly interface
 
 ## Installation
