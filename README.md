@@ -7,7 +7,7 @@
 
 # Emotional Reservoir
 
-This is a web application that allows users to record, track, and reflect on their emotions in a secure and organized way. Users can write daily notes, view past entries, and gain insights into their emotional patterns.
+Emotional Reservoir is a web app that lets users capture their joyful moments and store them safely. At any time, users can randomly revisit these moments, reliving the happiness they’ve collected over time. It’s a personal space to preserve and rediscover positivity.
 
 ## Features
 
